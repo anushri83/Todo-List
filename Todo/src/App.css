@@ -1,0 +1,42 @@
+.form_wrapper{
+  background-color: rgb(40, 3, 66);
+  text-align: center;
+
+  margin: 100px 500px;
+  padding: 10px 40px;
+}
+
+h1{
+  font-size: 30px;
+  color: white;
+}
+
+.input_box{
+  display: flex;
+  border: 1px solid rgb(181, 29, 181);
+  height: 40px;
+  
+}
+.task{
+  width: 73.5%;
+  
+}
+
+.button{
+  background-color:rgb(181, 29, 181) ;
+  color: white;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+.space{
+  background-color: rgb(181, 29, 181) ;
+  display: flex;
+  margin-bottom: 8px;
+  padding: 5px 15px;
+  justify-content: space-between;
+  
+}
+.text{
+  font-size: 20px;
+}
+
